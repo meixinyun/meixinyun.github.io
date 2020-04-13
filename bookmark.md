@@ -7,8 +7,16 @@ menu: Bookmark
 
 ## 运维
 
--  [监控-理念](https://www.jianshu.com/p/1f7392af1573) 监控知识拓扑
+### 知识拓扑
+
+- [阿里巴巴运维体系变迁史](https://www.jianshu.com/p/649f0a85254d) - 阿里巴巴运维体系变迁史
+
+- [腾讯蓝鲸体系架构及设计思想](http://www.greatops.net/?id=3) - 腾讯蓝鲸体系架构及设计思想
  
+
+
+
+
 ## 系统架构
 - 
 
