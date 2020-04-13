@@ -6,7 +6,8 @@ menu: Bookmark
 ---
 
 ## 运维
--
+
+-  [监控-理念](https://www.jianshu.com/p/1f7392af1573) 监控知识拓扑
  
 ## 系统架构
 - 
