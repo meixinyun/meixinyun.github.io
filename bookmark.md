@@ -19,7 +19,7 @@ menu: Bookmark
 
 ### 智能运维AIops
 
-  - [腾讯亿万量级告警是如何做到全、准、快的？](http://www.greatops.net/?id=109) - 监控产品，业务纬度
+  - [智能运维-异常捕获](https://github.com/meixinyun/AbnormalDetection) - 故障定位，异常捕获
   
 
 ## 系统架构
