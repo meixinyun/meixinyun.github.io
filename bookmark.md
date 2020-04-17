@@ -19,16 +19,14 @@ menu: Bookmark
 
 ### 智能运维AIops
 
+  - [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
+  
   - [智能运维-异常捕获](https://github.com/meixinyun/AbnormalDetection) - 故障定位，异常捕获
   
 
 ## 系统架构
 
-### 监控系统的架构
-
-
 ## 产品
-- 
 
 ## 管理
 
